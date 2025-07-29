@@ -54,7 +54,7 @@ You need to have [git](https://git-scm.com/downloads) and [git-lfs](https://git-
 
 ### Process new data
 
-The raw and processed data are not uploaded to the remote git repository due to size limitations. To add it to your local repository:
+The raw and processed data are not uploaded to the remote git repository due to size limitations. They are stored on the NAS server (`Z:\FAC\FGSE\IDYST\mperga\lake_group\D2c\GenZ-ADCP`). To add it to your local repository:
 1. Copy the raw ADCP and GPS data from the NAS sever to `data/*/*/Level0` (see the data structure in [data section below](#folder-data)).
 2. Process the ADCP data by running the Python script `analysis/1-Export_Signature/main_export_Signature.py` (select the field campaigns of interest at the beginning of the script). The data is exported to netCDF files in Level1 and Level2 folders. 
 3. Process the GPS data by running the Python script `analysis/2-Export_GPS/main_export_GPS.py` (select the field campaigns of interest at the beginning of the script). The data is exported to netCDF files in Level1 folder. 
@@ -67,7 +67,7 @@ New scripts can be added to the `analysis` and `figures` folders. Create a new f
 
 ## Folder `data`
 
-The data is stored in the folder `data`. It is not uploaded to the remote git repository due to size limitations. The raw data can be added from the NAS server and processed with the scripts available in the `analysis` folder (see [scripts section below](#folder-analysis)).
+The data is stored in the folder `data`. It is not uploaded to the remote git repository due to size limitations. The raw data can be added from the NAS server and processed with the scripts available in the `analysis` folder (see [analysis section below](#folder-analysis)).
 
 The data is organized by data types and by dates of measurements for each data type. The data is structured in three levels:
 - **Level 0**: Raw data downloaded from the instruments.
