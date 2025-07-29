@@ -12,7 +12,7 @@ from scipy.interpolate import griddata
 from datetime import datetime, timedelta, timezone
 from math import sin, cos, sqrt, atan2, radians
 from dateutil.relativedelta import relativedelta
-from envass import qualityassurance
+from envass_modified import qualityassurance
 import matplotlib.pyplot as plt
 
 
