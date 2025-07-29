@@ -1,9 +1,11 @@
 import os
+import sys
 import copy
 import json
 import numpy as np
 from datetime import datetime
-from envass import qualityassurance
+sys.path.append(os.path.join(os.path.dirname(__file__), '../../functions'))
+from envass_modified import qualityassurance
 
 
 def fixed_grid_resample_guide(data, grid):

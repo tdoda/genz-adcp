@@ -4,16 +4,15 @@ import sys
 import netCDF4
 import numpy as np
 import xarray as xr
-#from mhkit import dolfyn # Develop branch of the package, to install with "pip install git+https://github.com/MHKiT-Software/MHKiT-Python.git@develop"
-import dolfyn_modified as dolfyn # Modified version of the dolfyn package to deal with different types of Signature datasets
 import distutils.util
 from functions import json_converter, log
 from datetime import datetime
 import json
-from envass_modified import qualityassurance
 from dateutil.relativedelta import relativedelta
 sys.path.append(os.path.join(os.path.dirname(__file__), '../../functions'))
 from general_functions import GenericInstrument
+from envass_modified import qualityassurance
+import dolfyn_modified as dolfyn # Modified version of the dolfyn package to deal with different types of Signature datasets
 from quality_checks_adcp import *
 
 
