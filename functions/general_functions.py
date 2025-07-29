@@ -475,13 +475,14 @@ def read_netCDF(pathname):
     nc_data (dictionary): dataset as a dictionary of numpy arrays
     nc_genatt (dictionary): general attributes
     nc_varatt (dictionary): variable attributes
+    nc_dim (dictionary): variable dimensions
     """
     
     with netCDF4.Dataset(pathname, 'r') as nc_obj:
-        nc_data, nc_genatt, nc_varatt=netCDF2dict(nc_obj)
+        nc_data, nc_genatt, nc_varatt, nc_dim=netCDF2dict(nc_obj)
 
     
-    return nc_data, nc_genatt, nc_varatt
+    return nc_data, nc_genatt, nc_varatt, nc_dim
 
 def netCDF2dict(nc):
     """Function netCDF2dict
@@ -489,25 +490,31 @@ def netCDF2dict(nc):
     Converts a netCDF object to a dictionary
     
     """
-    
     nc_data=dict()
     nc_genatt=dict()
     nc_varatt=dict()
-    
+    nc_dim=dict()
+
     for key,value in nc.variables.items():
         if value.dtype==np.float64:
             nc_data[key]=value[:].data
         else:
             nc_data[key]=value[:]
         nc_varatt[key]=dict()
-        for att in value.ncattrs():
+        nc_varatt[key]["var_name"]=key
+        for att in value.ncattrs():     
             nc_varatt[key][att]=getattr(value,att)
+        nc_varatt[key]["dim"]=value.dimensions
+            
+    for dim_name in nc.dimensions.keys():
+        nc_dim[dim_name]={"dim_name":nc.dimensions[dim_name].name,"dim_size":nc.dimensions[dim_name].size}
+            
 
     for att in nc.ncattrs():
         nc_genatt[att]=getattr(nc,att)
 
                 
-    return nc_data, nc_genatt, nc_varatt
+    return nc_data, nc_genatt, nc_varatt, nc_dim
 
 
 def interpolate_nans(arr):
@@ -538,3 +545,58 @@ def interpolate_nans(arr):
 
     arr[nans] = np.interp(np.flatnonzero(nans), np.flatnonzero(not_nans), arr[not_nans])
     return arr
+
+def export_netCDF(filename,general_attributes,dimensions,variables,data):
+    """Function export_netCDF
+
+    Export data to a netCDF file
+
+    Inputs:
+    ----------
+    filename (string): netCDF filename with path included
+    general_attributes (dictionary): file attributes with the format {"name_attribute1": "attribute1_value",…}
+    dimensions (dictionary): dimensions with the format {'name_dimension1': {'dim_name': 'name_dimension1', 'dim_size': ...},…}
+    variables (dictionary): variable names with the format {'name_variable1': {'var_name': 'name_variable1', 'dim': ('name_dim1',’name_dim2’,…),'unit': “name_units”, 'longname': 'long_name_variable1', 'var_type':'float' or 'str'},…}
+    data (dictionary): data to export with the format {“name_variable1”:numpy_array,…}
+    vartype 
+    
+        
+    Outputs: None
+    
+    """
+    with netCDF4.Dataset(filename, mode='w', format='NETCDF4') as nc_file:
+        for key in general_attributes:
+            setattr(nc_file, key, general_attributes[key])
+            
+        for key, values in dimensions.items():
+             nc_file.createDimension(values['dim_name'], values['dim_size'])
+    
+    
+        for key, values in variables.items(): 
+            if 'var_type' not in values.keys() or values["var_type"]=="float":
+                var = nc_file.createVariable(values["var_name"], np.float64, values["dim"], fill_value=np.nan)
+            elif values["var_type"]=="str":
+                var = nc_file.createVariable(values["var_name"], str, values["dim"])
+            else:
+                raise Exception("Variable type is unknown")
+            
+            if "unit" in values:
+                var.units = values["unit"]
+            else: 
+                var.units = values["units"]
+                
+            if "longname" in values:
+                var.long_name = values["longname"]
+            else:  
+                var.long_name = values["long_name"]
+                
+            if key in data.keys():
+                if 'var_type' not in values.keys() or values["var_type"]=="float":
+                    var[:] = data[key]
+                else:
+                    for k in range(len(data[key])):
+                        var[k]=data[key][k]
+            else:
+                raise Exception("Data is missing for {}".format(key))
+
+    print("Data exported to {}!".format(filename))
