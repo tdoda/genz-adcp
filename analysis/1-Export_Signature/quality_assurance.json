@@ -1,0 +1,8 @@
+{
+"time_echo": {"simple": {"numeric": "True", "bounds": [1514764800, "now"]}, "advanced": {}},
+"time_vel": {"simple": {"numeric": "True", "bounds": [1514764800, "now"]}, "advanced": {}}, 
+"u": {"simple": {"numeric": "True", "bounds": [-5, 5]}, "advanced": {}}, 
+"v": {"simple": {"numeric": "True", "bounds": [-5, 5]}, "advanced": {}},
+"w": {"simple": {"numeric": "True", "bounds": [-5, 5]}, "advanced": {}},
+"echo_HR": {"simple": {"numeric": "True", "bounds": [0,200]}, "advanced": {}}
+}

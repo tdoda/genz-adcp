@@ -1,0 +1,2 @@
+Scripts from develop branch of the mhkit package, to install with "pip install git+https://github.com/MHKiT-Software/MHKiT-Python.git@develop".
+Modified by T. Doda to work for (i) concurrent plan with burst echosounder data + averaged velocity data and (ii) single burst echosounder data.

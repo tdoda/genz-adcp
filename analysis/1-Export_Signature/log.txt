@@ -1,0 +1,331 @@
+16:41:43.641553   Parsing data from ..\..\data\Signature\20250514\Level0\S101024A033_moving_av.ad2cp.
+16:44:42.824300   Failed to process ..\..\data\Signature\20250514\Level0\S101024A033_moving_av.ad2cp.
+16:46:04.520912   Parsing data from ..\..\data\Signature\20250514\Level0\S101024A033_moving_av.ad2cp.
+16:46:06.625110   Failed to process ..\..\data\Signature\20250514\Level0\S101024A033_moving_av.ad2cp.
+16:46:51.624115   Parsing data from ..\..\data\Signature\20250514\Level0\S101024A033_moving_av.ad2cp.
+16:46:53.703674   Failed to process ..\..\data\Signature\20250514\Level0\S101024A033_moving_av.ad2cp.
+16:48:39.174616   Parsing data from ..\..\data\Signature\20250514\Level0\S101024A033_moving_av.ad2cp.
+16:48:42.263800   Failed to process ..\..\data\Signature\20250514\Level0\S101024A033_moving_av.ad2cp.
+16:49:42.775786   Parsing data from ..\..\data\Signature\20250514\Level0\S101024A033_moving_av.ad2cp.
+16:58:24.417131   Failed to process ..\..\data\Signature\20250514\Level0\S101024A033_moving_av.ad2cp.
+16:58:30.511502   Parsing data from ..\..\data\Signature\20250514\Level0\S101024A033_moving_av.ad2cp.
+16:58:32.689745   Failed to process ..\..\data\Signature\20250514\Level0\S101024A033_moving_av.ad2cp.
+16:59:27.477796   Parsing data from ..\..\data\Signature\20250514\Level0\S101024A033_moving_av.ad2cp.
+17:02:57.352194   Failed to process ..\..\data\Signature\20250514\Level0\S101024A033_moving_av.ad2cp.
+17:03:06.699789   Parsing data from ..\..\data\Signature\20250514\Level0\S101024A033_moving_av.ad2cp.
+17:16:22.691568   Failed to process ..\..\data\Signature\20250514\Level0\S101024A033_moving_av.ad2cp.
+10:59:03.803876   Parsing data from ..\..\data\Signature\20250514\Level0\S101024A033_moving_av.ad2cp.
+11:27:22.316337   Failed to process ..\..\data\Signature\20250514\Level0\S101024A033_moving_av.ad2cp.
+11:27:47.129004   Parsing data from ..\..\data\Signature\20250514\Level0\S101024A033_moving_av.ad2cp.
+12:07:25.428404   Parsing data from ..\..\data\Signature\20250403\Level0\S101024A027_float2_noav.ad2cp.
+12:07:31.036214   Failed to process ..\..\data\Signature\20250403\Level0\S101024A027_float2_noav.ad2cp.
+12:10:47.139796   Parsing data from ..\..\data\Signature\20250403\Level0\S101024A027_float2_noav.ad2cp.
+12:10:51.948446   Failed to process ..\..\data\Signature\20250403\Level0\S101024A027_float2_noav.ad2cp.
+12:12:05.626497   Parsing data from ..\..\data\Signature\20250403\Level0\S101024A027_float2_noav.ad2cp.
+12:14:53.901083   Failed to process ..\..\data\Signature\20250403\Level0\S101024A027_float2_noav.ad2cp.
+13:35:28.062256   Parsing data from ..\..\data\Signature\20250403\Level0\S101024A027_float2_noav.ad2cp.
+13:36:35.017996   Parsing data from ..\..\data\Signature\20250403\Level0\S101024A027_float2_noav.ad2cp.
+13:37:47.444973   Parsing data from ..\..\data\Signature\20250403\Level0\S101024A027_float2_noav.ad2cp.
+14:13:12.048596   Parsing data from ..\..\data\Signature\20250411\Level0\S101024A028_fixed_avech.ad2cp.
+14:13:32.187928   Failed to process ..\..\data\Signature\20250411\Level0\S101024A028_fixed_avech.ad2cp.
+14:13:35.409096   Parsing data from ..\..\data\Signature\20250411\Level0\S101024A028_fixed_avech.ad2cp.
+14:14:05.260994   Parsing data from ..\..\data\Signature\20250411\Level0\S101024A028_fixed_avech.ad2cp.
+14:16:46.836202   Failed to process ..\..\data\Signature\20250411\Level0\S101024A028_fixed_avech.ad2cp.
+14:16:54.886801   Parsing data from ..\..\data\Signature\20250411\Level0\S101024A028_fixed_avech.ad2cp.
+14:16:58.727311   Failed to process ..\..\data\Signature\20250411\Level0\S101024A028_fixed_avech.ad2cp.
+14:17:28.806440   Parsing data from ..\..\data\Signature\20250411\Level0\S101024A028_fixed_avech.ad2cp.
+14:18:04.177524   Parsing data from ..\..\data\Signature\20250411\Level0\S101024A028_fixed_avech.ad2cp.
+14:18:07.455708   Failed to process ..\..\data\Signature\20250411\Level0\S101024A028_fixed_avech.ad2cp.
+14:18:10.222466   Failed to process ..\..\data\Signature\20250411\Level0\S101024A028_fixed_avech.ad2cp.
+14:18:12.703157   Parsing data from ..\..\data\Signature\20250411\Level0\S101024A028_fixed_avech.ad2cp.
+14:18:40.854419   Parsing data from ..\..\data\Signature\20250411\Level0\S101024A028_fixed_avech.ad2cp.
+14:25:10.470510   Parsing data from ..\..\data\Signature\20250403\Level0\S101024A027_float2_noav.ad2cp.
+14:25:17.774801   Parsing data from ..\..\data\Signature\20250411\Level0\S101024A028_fixed_avech.ad2cp.
+14:25:28.502208   Parsing data from ..\..\data\Signature\20250430\Level0\S101024A032_fixed_avech.ad2cp.
+14:25:51.367728   Parsing data from ..\..\data\Signature\20250514\Level0\S101024A033_moving_av.ad2cp.
+14:26:00.116440   Parsing data from ..\..\data\Signature\20250519\Level0\S101024A034_burst_avge.ad2cp.
+14:26:31.388844   Parsing data from ..\..\data\Signature\20250520\Level0\S101024A035_burst_avge.ad2cp.
+16:19:15.327849   Parsing data from ..\..\data\Signature\20250520\Level0\S101024A035_burst_avge.ad2cp.
+16:27:15.560122   Parsing data from ..\..\data\Signature\20250520\Level0\S101024A035_burst_avge.ad2cp.
+16:29:33.973331   Failed to process ..\..\data\Signature\20250520\Level0\S101024A035_burst_avge.ad2cp.
+16:35:01.795118   Parsing data from ..\..\data\Signature\20250520\Level0\S101024A035_burst_avge.ad2cp.
+16:36:57.841828   Failed to process ..\..\data\Signature\20250520\Level0\S101024A035_burst_avge.ad2cp.
+16:36:59.861234   Parsing data from ..\..\data\Signature\20250411\Level0\S101024A028_fixed_avech.ad2cp.
+16:46:27.540137   Failed to process ..\..\data\Signature\20250411\Level0\S101024A028_fixed_avech.ad2cp.
+16:46:46.266987   Parsing data from ..\..\data\Signature\20250411\Level0\S101024A028_fixed_avech.ad2cp.
+16:46:50.322754   Performing quality assurance
+16:46:50.323727      1. ADCP-specific quality checks
+16:47:48.474224   Parsing data from ..\..\data\Signature\20250411\Level0\S101024A028_fixed_avech.ad2cp.
+16:47:52.304389   Performing quality assurance
+16:47:52.304891      1. ADCP-specific quality checks
+16:49:03.511738   Parsing data from ..\..\data\Signature\20250411\Level0\S101024A028_fixed_avech.ad2cp.
+16:49:07.096409   Performing quality assurance
+16:49:07.097413      1. ADCP-specific quality checks
+17:09:05.269103   Parsing data from ..\..\data\Signature\20250411\Level0\S101024A028_fixed_avech.ad2cp.
+17:09:09.728867   Performing quality assurance
+17:09:09.729360      1. ADCP-specific quality checks
+17:09:51.738127   Parsing data from ..\..\data\Signature\20250411\Level0\S101024A028_fixed_avech.ad2cp.
+17:09:55.256512   Performing quality assurance
+17:09:55.257014      1. ADCP-specific quality checks
+17:09:55.722417      2. envass quality checks
+17:12:14.648586   Parsing data from ..\..\data\Signature\20250411\Level0\S101024A028_fixed_avech.ad2cp.
+17:12:18.956086   Performing quality assurance
+17:12:18.956086      1. ADCP-specific quality checks
+17:12:19.426602      2. envass quality checks
+17:12:35.439409   Parsing data from ..\..\data\Signature\20250411\Level0\S101024A028_fixed_avech.ad2cp.
+17:12:39.995167   Performing quality assurance
+17:12:39.995667      1. ADCP-specific quality checks
+17:12:40.401314      2. envass quality checks
+17:24:30.692705   Parsing data from ..\..\data\Signature\20250411\Level0\S101024A028_fixed_avech.ad2cp.
+17:24:34.523647   Performing quality assurance
+17:24:34.524649      1. ADCP-specific quality checks
+17:24:34.911111      2. envass quality checks
+17:25:56.453414   Parsing data from ..\..\data\Signature\20250411\Level0\S101024A028_fixed_avech.ad2cp.
+17:26:00.932606   Performing quality assurance
+17:26:00.933605      1. ADCP-specific quality checks
+17:26:01.343482      2. envass quality checks
+17:27:09.935963   Parsing data from ..\..\data\Signature\20250411\Level0\S101024A028_fixed_avech.ad2cp.
+17:27:13.667876   Performing quality assurance
+17:27:13.668876      1. ADCP-specific quality checks
+17:27:14.087383      2. envass quality checks
+17:28:03.469838   Parsing data from ..\..\data\Signature\20250411\Level0\S101024A028_fixed_avech.ad2cp.
+17:28:06.644747   Performing quality assurance
+17:28:06.645247      1. ADCP-specific quality checks
+17:28:07.043653      2. envass quality checks
+17:28:58.909210   Parsing data from ..\..\data\Signature\20250411\Level0\S101024A028_fixed_avech.ad2cp.
+17:29:02.045470   Performing quality assurance
+17:29:02.045470      1. ADCP-specific quality checks
+17:29:02.401763      2. envass quality checks
+17:30:49.600237   Parsing data from ..\..\data\Signature\20250411\Level0\S101024A028_fixed_avech.ad2cp.
+17:30:52.744707   Performing quality assurance
+17:30:52.745718      1. ADCP-specific quality checks
+17:30:53.103318      2. envass quality checks
+17:48:34.714226   Parsing data from ..\..\data\Signature\20250411\Level0\S101024A028_fixed_avech.ad2cp.
+17:48:38.018177   Performing quality assurance
+17:48:38.018670      1. ADCP-specific quality checks
+17:48:38.575240      2. envass quality checks
+17:51:33.485926   Parsing data from ..\..\data\Signature\20250411\Level0\S101024A028_fixed_avech.ad2cp.
+17:51:36.546697   Performing quality assurance
+17:51:36.546697      1. ADCP-specific quality checks
+17:51:37.028917      2. envass quality checks
+17:51:59.556377   Parsing data from ..\..\data\Signature\20250411\Level0\S101024A028_fixed_avech.ad2cp.
+17:52:02.655208   Performing quality assurance
+17:52:02.655708      1. ADCP-specific quality checks
+17:52:03.044213      2. envass quality checks
+17:52:49.922704   Parsing data from ..\..\data\Signature\20250411\Level0\S101024A028_fixed_avech.ad2cp.
+17:52:53.361927   Performing quality assurance
+17:52:53.363239      1. ADCP-specific quality checks
+17:52:54.033365      2. envass quality checks
+17:53:41.474721   Parsing data from ..\..\data\Signature\20250411\Level0\S101024A028_fixed_avech.ad2cp.
+17:53:44.631463   Performing quality assurance
+17:53:44.632972      1. ADCP-specific quality checks
+17:53:44.958931      2. envass quality checks
+17:55:41.611607   Parsing data from ..\..\data\Signature\20250411\Level0\S101024A028_fixed_avech.ad2cp.
+17:55:45.510063   Performing quality assurance
+17:55:45.510063      1. ADCP-specific quality checks
+17:55:45.851194      2. envass quality checks
+17:56:19.723520   Parsing data from ..\..\data\Signature\20250411\Level0\S101024A028_fixed_avech.ad2cp.
+17:56:22.965876   Performing quality assurance
+17:56:22.966377      1. ADCP-specific quality checks
+17:56:23.284625      2. envass quality checks
+17:57:54.551743   Parsing data from ..\..\data\Signature\20250411\Level0\S101024A028_fixed_avech.ad2cp.
+17:57:57.640015   Performing quality assurance
+17:57:57.640015      1. ADCP-specific quality checks
+17:57:57.969132      2. envass quality checks
+18:00:32.969087   Parsing data from ..\..\data\Signature\20250411\Level0\S101024A028_fixed_avech.ad2cp.
+18:12:04.063614   Failed to process ..\..\data\Signature\20250411\Level0\S101024A028_fixed_avech.ad2cp.
+18:12:12.018504   Parsing data from ..\..\data\Signature\20250411\Level0\S101024A028_fixed_avech.ad2cp.
+18:12:15.236926   Performing quality assurance
+18:12:15.237926      1. ADCP-specific quality checks
+18:12:15.617089      2. envass quality checks
+18:38:56.241523   Parsing data from ..\..\data\Signature\20250411\Level0\S101024A028_fixed_avech.ad2cp.
+18:38:59.564495   Performing quality assurance
+18:38:59.565499      1. ADCP-specific quality checks
+18:38:59.911180      2. envass quality checks
+18:43:28.401813   Parsing data from ..\..\data\Signature\20250411\Level0\S101024A028_fixed_avech.ad2cp.
+18:43:31.633894   Performing quality assurance
+18:43:31.634918      1. ADCP-specific quality checks
+18:43:31.990509      2. envass quality checks
+14:20:08.610771   Parsing data from ..\..\data\Signature\20250403\Level0\S101024A027_float2_noav.ad2cp.
+14:27:21.298300   Parsing data from ..\..\data\Signature\20250403\Level0\S101024A027_float2_noav.ad2cp.
+14:32:44.212171   Parsing data from ..\..\data\Signature\20250403\Level0\S101024A027_float2_noav.ad2cp.
+15:33:45.578398   Parsing data from ..\..\data\Signature\20250411\Level0\S101024A028_fixed_avech.ad2cp.
+15:35:40.996350   Parsing data from ..\..\data\Signature\20250411\Level0\S101024A028_fixed_avech.ad2cp.
+15:35:44.176696   Performing quality assurance
+15:35:44.177708      1. ADCP-specific quality checks
+15:35:44.545404      2. envass quality checks
+15:36:21.328261   Parsing data from ..\..\data\Signature\20250411\Level0\S101024A028_fixed_avech.ad2cp.
+15:36:24.677043   Performing quality assurance
+15:36:24.678066      1. ADCP-specific quality checks
+15:36:25.035698      2. envass quality checks
+15:40:23.115236   Parsing data from ..\..\data\Signature\20250411\Level0\S101024A028_fixed_avech.ad2cp.
+15:40:26.338075   Performing quality assurance
+15:40:26.339100      1. ADCP-specific quality checks
+15:40:26.698775      2. envass quality checks
+15:42:23.006666   Parsing data from ..\..\data\Signature\20250411\Level0\S101024A028_fixed_avech.ad2cp.
+15:42:26.176695   Performing quality assurance
+15:42:26.176695      1. ADCP-specific quality checks
+15:42:26.660042      2. envass quality checks
+15:44:53.615747   Parsing data from ..\..\data\Signature\20250411\Level0\S101024A028_fixed_avech.ad2cp.
+15:44:56.811491   Performing quality assurance
+15:44:56.811995      1. ADCP-specific quality checks
+15:44:57.164808      2. envass quality checks
+15:46:20.929014   Parsing data from ..\..\data\Signature\20250430\Level0\S101024A032_fixed_avech.ad2cp.
+15:46:34.293375   Performing quality assurance
+15:46:34.293875      1. ADCP-specific quality checks
+15:46:35.526979      2. envass quality checks
+17:21:44.172153   Parsing data from ..\..\data\Signature\20250514\Level0\S101024A033_moving_av.ad2cp.
+17:21:46.619774   Performing quality assurance
+17:21:46.620796      1. ADCP-specific quality checks
+17:21:46.897031      2. envass quality checks
+17:22:14.632079   Parsing data from ..\..\data\Signature\20250519\Level0\S101024A034_burst_avge.ad2cp.
+17:22:36.498159   Performing quality assurance
+17:22:36.498659      1. ADCP-specific quality checks
+17:22:38.588187      2. envass quality checks
+17:30:22.658494   Parsing data from ..\..\data\Signature\20250520\Level0\S101024A035_burst_avge.ad2cp.
+17:30:39.150928   Performing quality assurance
+17:30:39.151427      1. ADCP-specific quality checks
+17:30:40.905736      2. envass quality checks
+17:42:18.444051   Parsing data from ..\..\data\Signature\20250411\Level0\S101024A028_fixed_avech.ad2cp.
+17:42:21.761209   Performing quality assurance
+17:42:21.761712      1. ADCP-specific quality checks
+17:42:22.092875      2. envass quality checks
+18:34:29.666993   Parsing data from ..\..\data\Signature\20250411\Level0\S101024A028_fixed_avech.ad2cp.
+18:34:34.255665   Failed to process ..\..\data\Signature\20250411\Level0\S101024A028_fixed_avech.ad2cp.
+18:39:41.787659   Parsing data from ..\..\data\Signature\20250411\Level0\S101024A028_fixed_avech.ad2cp.
+18:39:46.217056   Performing quality assurance
+18:39:46.218285      1. ADCP-specific quality checks
+18:39:46.581188      2. envass quality checks
+18:51:18.201108   Parsing data from ..\..\data\Signature\20250411\Level0\S101024A028_fixed_avech.ad2cp.
+18:51:22.145682   Performing quality assurance
+18:51:22.146683      1. ADCP-specific quality checks
+18:51:22.574779      2. envass quality checks
+18:52:09.978719   Parsing data from ..\..\data\Signature\20250430\Level0\S101024A032_fixed_avech.ad2cp.
+18:52:30.979599   Performing quality assurance
+18:52:30.980600      1. ADCP-specific quality checks
+18:52:32.845588      2. envass quality checks
+18:56:25.953580   Parsing data from ..\..\data\Signature\20250514\Level0\S101024A033_moving_av.ad2cp.
+18:56:28.624475   Performing quality assurance
+18:56:28.624978      1. ADCP-specific quality checks
+18:56:28.842798      2. envass quality checks
+18:56:54.096567   Parsing data from ..\..\data\Signature\20250519\Level0\S101024A034_burst_avge.ad2cp.
+18:57:15.449645   Performing quality assurance
+18:57:15.450646      1. ADCP-specific quality checks
+18:57:16.868508      2. envass quality checks
+19:00:38.206572   Parsing data from ..\..\data\Signature\20250520\Level0\S101024A035_burst_avge.ad2cp.
+19:01:01.251097   Performing quality assurance
+19:01:01.253098      1. ADCP-specific quality checks
+19:01:02.874272      2. envass quality checks
+09:47:00.626663   Parsing data from ..\..\data\Signature\20250411\Level0\S101024A028_fixed_avech.ad2cp.
+09:47:04.124796   Performing quality assurance
+09:47:04.125297      1. ADCP-specific quality checks
+09:47:04.608302      2. envass quality checks
+10:18:46.894982   Parsing data from ..\..\data\Signature\20250411\Level0\S101024A028_fixed_avech.ad2cp.
+10:18:50.383814   Performing quality assurance
+10:18:50.383814      1. ADCP-specific quality checks
+10:18:50.757267      2. envass quality checks
+10:19:24.812854   Parsing data from ..\..\data\Signature\20250411\Level0\S101024A028_fixed_avech.ad2cp.
+10:19:28.032281   Performing quality assurance
+10:19:28.032781      1. ADCP-specific quality checks
+10:19:28.414095      2. envass quality checks
+14:52:08.021141   Parsing data from ..\..\data\Signature\20250411\Level0\S101024A028_fixed_avech.ad2cp.
+14:56:56.791764   Parsing data from ..\..\data\Signature\20250411\Level0\S101024A028_fixed_avech.ad2cp.
+14:57:01.070438   Performing quality assurance
+14:57:01.070438      1. ADCP-specific quality checks
+14:57:01.622752      2. envass quality checks
+14:57:06.184806   Parsing data from ..\..\data\Signature\20250430\Level0\S101024A032_fixed_avech.ad2cp.
+14:57:23.422149   Performing quality assurance
+14:57:23.429143      1. ADCP-specific quality checks
+14:57:27.098086      2. envass quality checks
+14:57:46.567806   Parsing data from ..\..\data\Signature\20250514\Level0\S101024A033_moving_av.ad2cp.
+14:57:49.053895   Performing quality assurance
+14:57:49.054895      1. ADCP-specific quality checks
+14:57:49.291118      2. envass quality checks
+14:57:51.569495   Parsing data from ..\..\data\Signature\20250519\Level0\S101024A034_burst_avge.ad2cp.
+14:58:13.980699   Performing quality assurance
+14:58:13.981702      1. ADCP-specific quality checks
+14:58:16.293154      2. envass quality checks
+14:58:40.406593   Parsing data from ..\..\data\Signature\20250520\Level0\S101024A035_burst_avge.ad2cp.
+14:59:03.111842   Performing quality assurance
+14:59:03.120708      1. ADCP-specific quality checks
+14:59:04.682331      2. envass quality checks
+15:02:25.987968   Parsing data from ..\..\data\Signature\20250411\Level0\S101024A028_fixed_avech.ad2cp.
+15:02:29.742079   Performing quality assurance
+15:02:29.743088      1. ADCP-specific quality checks
+15:02:30.180284      2. envass quality checks
+15:03:55.723069   Parsing data from ..\..\data\Signature\20250411\Level0\S101024A028_fixed_avech.ad2cp.
+15:03:59.030035   Performing quality assurance
+15:03:59.030536      1. ADCP-specific quality checks
+15:03:59.380048      2. envass quality checks
+15:06:50.125061   Parsing data from ..\..\data\Signature\20250411\Level0\S101024A028_fixed_avech.ad2cp.
+15:06:53.372379   Performing quality assurance
+15:06:53.372869      1. ADCP-specific quality checks
+15:06:53.742073      2. envass quality checks
+15:07:00.274778   Parsing data from ..\..\data\Signature\20250430\Level0\S101024A032_fixed_avech.ad2cp.
+15:07:34.935239   Performing quality assurance
+15:07:34.936245      1. ADCP-specific quality checks
+15:07:36.623943      2. envass quality checks
+15:08:14.106831   Parsing data from ..\..\data\Signature\20250514\Level0\S101024A033_moving_av.ad2cp.
+15:08:16.570763   Performing quality assurance
+15:08:16.571777      1. ADCP-specific quality checks
+15:08:16.801280      2. envass quality checks
+15:08:20.701472   Parsing data from ..\..\data\Signature\20250519\Level0\S101024A034_burst_avge.ad2cp.
+15:08:38.568074   Performing quality assurance
+15:08:38.569074      1. ADCP-specific quality checks
+15:08:40.200587      2. envass quality checks
+15:09:12.000653   Parsing data from ..\..\data\Signature\20250520\Level0\S101024A035_burst_avge.ad2cp.
+15:09:30.235846   Performing quality assurance
+15:09:30.235846      1. ADCP-specific quality checks
+15:09:31.796969      2. envass quality checks
+15:59:08.761386   Parsing data from ..\..\data\Signature\20250411\Level0\S101024A028_fixed_avech.ad2cp.
+15:59:12.201173   Performing quality assurance
+15:59:12.202218      1. ADCP-specific quality checks
+15:59:12.589289      2. envass quality checks
+15:59:19.151961   Parsing data from ..\..\data\Signature\20250430\Level0\S101024A032_fixed_avech.ad2cp.
+15:59:33.393847   Performing quality assurance
+15:59:33.394769      1. ADCP-specific quality checks
+15:59:34.948162      2. envass quality checks
+16:00:00.814405   Parsing data from ..\..\data\Signature\20250514\Level0\S101024A033_moving_av.ad2cp.
+16:00:03.186031   Performing quality assurance
+16:00:03.187046      1. ADCP-specific quality checks
+16:00:03.416262      2. envass quality checks
+16:00:07.696364   Parsing data from ..\..\data\Signature\20250519\Level0\S101024A034_burst_avge.ad2cp.
+16:00:24.498512   Performing quality assurance
+16:00:24.500012      1. ADCP-specific quality checks
+16:00:25.969276      2. envass quality checks
+16:00:56.306023   Parsing data from ..\..\data\Signature\20250520\Level0\S101024A035_burst_avge.ad2cp.
+16:01:12.699225   Performing quality assurance
+16:01:12.700230      1. ADCP-specific quality checks
+16:01:14.260675      2. envass quality checks
+16:13:27.453730   Parsing data from ..\..\data\Signature\20250411\Level0\S101024A028_fixed_avech.ad2cp.
+16:13:34.854467   Performing quality assurance
+16:13:34.855212      1. ADCP-specific quality checks
+16:13:35.336856      2. envass quality checks
+16:56:28.667056   Parsing data from ..\..\data\Signature\20250411\Level0\S101024A028_fixed_avech.ad2cp.
+16:56:32.176080   Performing quality assurance
+16:56:32.176080      1. ADCP-specific quality checks
+16:56:32.570493      2. envass quality checks
+16:57:38.878115   Parsing data from ..\..\data\Signature\20250411\Level0\S101024A028_fixed_avech.ad2cp.
+16:57:42.117756   Performing quality assurance
+16:57:42.117756      1. ADCP-specific quality checks
+16:57:42.460502      2. envass quality checks
+17:24:04.414473   Parsing data from ..\..\data\Signature\20250411\Level0\S101024A028_fixed_avech.ad2cp.
+17:24:08.073917   Performing quality assurance
+17:24:08.074941      1. ADCP-specific quality checks
+17:24:08.498068      2. envass quality checks
+17:24:14.350712   Parsing data from ..\..\data\Signature\20250430\Level0\S101024A032_fixed_avech.ad2cp.
+17:24:27.832455   Performing quality assurance
+17:24:27.832455      1. ADCP-specific quality checks
+17:24:29.202817      2. envass quality checks
+17:24:51.764556   Parsing data from ..\..\data\Signature\20250514\Level0\S101024A033_moving_av.ad2cp.
+17:24:54.257921   Performing quality assurance
+17:24:54.257921      1. ADCP-specific quality checks
+17:24:54.486332      2. envass quality checks
+17:24:58.224690   Parsing data from ..\..\data\Signature\20250519\Level0\S101024A034_burst_avge.ad2cp.
+17:25:16.049645   Performing quality assurance
+17:25:16.049645      1. ADCP-specific quality checks
+17:25:17.530287      2. envass quality checks
+17:25:43.431537   Parsing data from ..\..\data\Signature\20250520\Level0\S101024A035_burst_avge.ad2cp.
+17:25:59.496064   Performing quality assurance
+17:25:59.496064      1. ADCP-specific quality checks
+17:26:00.764454      2. envass quality checks
