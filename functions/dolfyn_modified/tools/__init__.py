@@ -1,2 +1,2 @@
-from mhkit.dolfyn.tools import misc
-from mhkit.dolfyn.tools import fft
+from . import misc
+from . import fft

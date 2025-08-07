@@ -9,6 +9,9 @@ python-dateutil
 pyyaml
 bottleneck
 gpxpy
+plotly
+scikit-learn
+cartopy
 # Optional for notebook use:
 jupyter
 notebook

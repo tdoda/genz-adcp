@@ -13,8 +13,8 @@ from adcp_signature import ADCP_Signature
 #%% Specify field campaign and filename here:
 campaigns_all=["20250403" ,"20250411","20250430","20250514"  ,"20250519","20250520"]
 files_all=["S101024A027_float2_noav.ad2cp","S101024A028_fixed_avech.ad2cp","S101024A032_fixed_avech.ad2cp","S101024A033_moving_av.ad2cp","S101024A034_burst_avge.ad2cp","S101024A035_burst_avge.ad2cp"]
-indices_data=np.arange(1,6) # Indices of the datafiles to process
-# indices_data=[1]
+# indices_data=np.arange(1,6) # Indices of the datafiles to process
+indices_data=[1]
 signature_folder="..\..\data\Signature"
 
 for index_file in indices_data:
