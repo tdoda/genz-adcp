@@ -329,3 +329,7 @@
 17:25:59.496064   Performing quality assurance
 17:25:59.496064      1. ADCP-specific quality checks
 17:26:00.764454      2. envass quality checks
+11:41:15.255869   Parsing data from ..\..\data\Signature\20250411\Level0\S101024A028_fixed_avech.ad2cp.
+11:41:18.898047   Performing quality assurance
+11:41:18.899130      1. ADCP-specific quality checks
+11:41:19.219682      2. envass quality checks
