@@ -1,5 +1,5 @@
-from mhkit.dolfyn.io.api import read, read_example, save, load, save_mat, load_mat
-from mhkit.dolfyn.rotate.api import (
+from .io.api import read, read_example, save, load, save_mat, load_mat
+from .rotate.api import (
     rotate2,
     calc_principal_heading,
     set_declination,
@@ -7,9 +7,9 @@ from mhkit.dolfyn.rotate.api import (
 )
 from .rotate.base import euler2orient, orient2euler, quaternion2orient
 from .velocity import VelBinner
-from mhkit.dolfyn import adv
-from mhkit.dolfyn import adp
-from mhkit.dolfyn import time
-from mhkit.dolfyn import io
-from mhkit.dolfyn import rotate
-from mhkit.dolfyn import tools
+from . import adv
+from . import adp
+from . import time
+from . import io
+from . import rotate
+from . import tools
