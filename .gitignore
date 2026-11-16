@@ -340,3 +340,8 @@ tags
 # Data folders
 data/*/*/*/*
 !data/*/*/*/.gitkeep
+
+# Figures
+*.svg
+*.png
+*.jpg
