@@ -28,7 +28,7 @@ filename="Signature_GPS_20250514.nc"
 # Parameters:
 dval=1.5 # [m] # Depth of echo data:
 dt_avg=10 # [s] # Temporal moving average
-savefig=True # True to save the figure
+savefig=False # True to save the figure
 period_avg=[datetime(2025,5,14,22,50,0),datetime(2025,5,15,0,15,0)] # Period when the data should be considered
 dt=60 # Temporal resolution shown on the figure [sec], to plot the data faster
 #%% Load data
@@ -99,6 +99,7 @@ ax[0].ticklabel_format(style='plain', useOffset=False)
 # Export the figure
 if savefig:
     fig.savefig('spatial_temp_backscat.png',dpi=400)
+    fig.savefig('spatial_temp_backscat.svg',bbox_inches="tight")
 
     
     
